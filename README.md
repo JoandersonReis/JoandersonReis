@@ -31,5 +31,4 @@ My bigest dream is working in the IT world.
 </div>
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoandersonReis&show_icons=true)
-)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoandersonReis&show_icons=true)
