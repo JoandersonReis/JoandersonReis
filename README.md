@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://miro.medium.com/max/700/0*A170StxK3jht1vmt.png" />
 <!--
 **JoandersonReis/JoandersonReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
