@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Joanderson Reis
 
-fullstack developer, Technology lover, Javascript and SPA fan. Currently learning ReactJS, Node.js and React-Native.
+Fullstack developer, Technology lover, Javascript and SPA fan. Currently learning ReactJS, Node.js and React-Native.
 <br/>
 
 My bigest dream is working in the IT world.
