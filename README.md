@@ -33,5 +33,5 @@ My bigest dream is working in the IT world.
 ## Github Stats
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoandersonReis&show_icons=true&theme=radical" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoandersonReis" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoandersonReis&layout=compact" />
 </div>
