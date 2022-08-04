@@ -33,6 +33,6 @@ My bigest dream is working in the IT world.
 ## Github Stats
 <div>
    <a href="http://github.com/JoandersonReis">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoandersonReis)
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoandersonReis)](https://github.com/anuraghazra/github-readme-stats)
    </a>
 </div>
