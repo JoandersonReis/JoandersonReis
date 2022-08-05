@@ -37,3 +37,9 @@ My bigest dream is working in the IT world.
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoandersonReis&layout=compact&theme=blueberry" />
    </a>
 </div>
+
+<div>
+   <a href="https://git.io/streak-stats">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoandersonReis&show_icons=true&theme=blueberry" />
+   </a>
+</div>
